@@ -1,0 +1,8 @@
+{
+    "name": "coremodel-service",
+    "version": "1.0.587",
+    "private": false,
+    "environment": "production",
+    "build_id": 299,
+    "allow_public_access": true
+}
